@@ -1,9 +1,9 @@
 ; BIND RPZ blacklist
 $TTL 3600
-@ SOA dummy-1722103500-ns hostmaster 1722103500 12h 15m 3w 3h
-@ NS dummy-1722103500-ns
-dummy-1722103500-ns A 0.0.0.0
-dummy-1722103500-ns AAAA ::
+@ SOA dummy-1722117908-ns hostmaster 1722117908 12h 15m 3w 3h
+@ NS dummy-1722117908-ns
+dummy-1722117908-ns A 0.0.0.0
+dummy-1722117908-ns AAAA ::
 ;
 ; --- TLDS ---
 ;
@@ -38,8 +38,6 @@ b4guhp.bond CNAME .
 *.b4guhp.bond CNAME .
 cialisa.buzz CNAME .
 *.cialisa.buzz CNAME .
-inpostweb.buzz CNAME .
-*.inpostweb.buzz CNAME .
 propeci.buzz CNAME .
 *.propeci.buzz CNAME .
 shaparak.buzz CNAME .
@@ -50,14 +48,8 @@ torob.buzz CNAME .
 *.torob.buzz CNAME .
 varzesh3.buzz CNAME .
 *.varzesh3.buzz CNAME .
-empyrean.cash CNAME .
-*.empyrean.cash CNAME .
 joker123.center CNAME .
 *.joker123.center CNAME .
-3fse.cfd CNAME .
-*.3fse.cfd CNAME .
-43ui.cfd CNAME .
-*.43ui.cfd CNAME .
 airc.cfd CNAME .
 *.airc.cfd CNAME .
 big-game-app.cfd CNAME .
@@ -86,26 +78,10 @@ vpn1.cfd CNAME .
 *.vpn1.cfd CNAME .
 w-e.cfd CNAME .
 *.w-e.cfd CNAME .
-bbbqxa.click CNAME .
-*.bbbqxa.click CNAME .
-bkexyy.click CNAME .
-*.bkexyy.click CNAME .
-bqgusi.click CNAME .
-*.bqgusi.click CNAME .
-cikaaw.click CNAME .
-*.cikaaw.click CNAME .
 cranggists.click CNAME .
 *.cranggists.click CNAME .
 decilesmishaps.click CNAME .
 *.decilesmishaps.click CNAME .
-dwpcgt.click CNAME .
-*.dwpcgt.click CNAME .
-eezplf.click CNAME .
-*.eezplf.click CNAME .
-evttle.click CNAME .
-*.evttle.click CNAME .
-furaneinne.click CNAME .
-*.furaneinne.click CNAME .
 habenarilleism.click CNAME .
 *.habenarilleism.click CNAME .
 headlinehub.click CNAME .
@@ -132,8 +108,6 @@ chainusdt.club CNAME .
 *.chainusdt.club CNAME .
 kaptur.club CNAME .
 *.kaptur.club CNAME .
-9kmovies.coach CNAME .
-*.9kmovies.coach CNAME .
 029kshs.com CNAME .
 *.029kshs.com CNAME .
 1autocity.com CNAME .
@@ -162,8 +136,6 @@ bekandjet.com CNAME .
 *.bekandjet.com CNAME .
 biqund.com CNAME .
 *.biqund.com CNAME .
-uiux.community CNAME .
-*.uiux.community CNAME .
 extreme-down.cyou CNAME .
 *.extreme-down.cyou CNAME .
 filmhd-1080.cyou CNAME .
@@ -186,8 +158,6 @@ pdgk.homes CNAME .
 *.pdgk.homes CNAME .
 uiso.homes CNAME .
 *.uiso.homes CNAME .
-uwjr.homes CNAME .
-*.uwjr.homes CNAME .
 aaaa-snsnsn.info CNAME .
 *.aaaa-snsnsn.info CNAME .
 acgklw.info CNAME .
@@ -234,18 +204,12 @@ amantine.life CNAME .
 *.amantine.life CNAME .
 headthefuel.live CNAME .
 *.headthefuel.live CNAME .
-mega123.live CNAME .
-*.mega123.live CNAME .
-p24.live CNAME .
-*.p24.live CNAME .
 ringvanholy.live CNAME .
 *.ringvanholy.live CNAME .
 tbs-tv.live CNAME .
 *.tbs-tv.live CNAME .
 view8.live CNAME .
 *.view8.live CNAME .
-b6dabk.lol CNAME .
-*.b6dabk.lol CNAME .
 glucadoolsu.lol CNAME .
 *.glucadoolsu.lol CNAME .
 portabletoilets.london CNAME .
@@ -260,14 +224,6 @@ getperfectapp.monster CNAME .
 *.getperfectapp.monster CNAME .
 lordserial.monster CNAME .
 *.lordserial.monster CNAME .
-1datagateway.net CNAME .
-*.1datagateway.net CNAME .
-1edit.net CNAME .
-*.1edit.net CNAME .
-1generalise.net CNAME .
-*.1generalise.net CNAME .
-1integrate.net CNAME .
-*.1integrate.net CNAME .
 789betvip-vn.net CNAME .
 *.789betvip-vn.net CNAME .
 aandbcarpetcorner.net CNAME .
@@ -316,8 +272,6 @@ globalgeopolitics.net CNAME .
 *.globalgeopolitics.net CNAME .
 group99.net CNAME .
 *.group99.net CNAME .
-hugeportal.net CNAME .
-*.hugeportal.net CNAME .
 indiacar.net CNAME .
 *.indiacar.net CNAME .
 internet-casinos-online.net CNAME .
@@ -348,8 +302,6 @@ politexpert.net CNAME .
 *.politexpert.net CNAME .
 ptaukaufa.net CNAME .
 *.ptaukaufa.net CNAME .
-ripple-promo.net CNAME .
-*.ripple-promo.net CNAME .
 sahouane.net CNAME .
 *.sahouane.net CNAME .
 sexmonster.net CNAME .
@@ -376,8 +328,6 @@ thantaigocua.net CNAME .
 *.thantaigocua.net CNAME .
 thorn.net CNAME .
 *.thorn.net CNAME .
-ubaitugro.net CNAME .
-*.ubaitugro.net CNAME .
 upheezez.net CNAME .
 *.upheezez.net CNAME .
 urlpush.net CNAME .
@@ -476,8 +426,6 @@ wemine.pro CNAME .
 *.wemine.pro CNAME .
 youngfuck.pro CNAME .
 *.youngfuck.pro CNAME .
-tricks.run CNAME .
-*.tricks.run CNAME .
 beefr.sbs CNAME .
 *.beefr.sbs CNAME .
 biblse.sbs CNAME .
@@ -520,8 +468,6 @@ partookshelty.shop CNAME .
 *.partookshelty.shop CNAME .
 regreennearish.shop CNAME .
 *.regreennearish.shop CNAME .
-superbiamk.shop CNAME .
-*.superbiamk.shop CNAME .
 bnpparlbas.site CNAME .
 *.bnpparlbas.site CNAME .
 broluckycode1s.site CNAME .
@@ -1466,8 +1412,6 @@ acetamox.store CNAME .
 *.acetamox.store CNAME .
 nasih.tech CNAME .
 *.nasih.tech CNAME .
-188betlink.top CNAME .
-*.188betlink.top CNAME .
 24xxxx.top CNAME .
 *.24xxxx.top CNAME .
 azathuran.top CNAME .
@@ -1480,8 +1424,6 @@ casino-vodka-2s.top CNAME .
 *.casino-vodka-2s.top CNAME .
 collpics.top CNAME .
 *.collpics.top CNAME .
-cosmo001.top CNAME .
-*.cosmo001.top CNAME .
 csidc.top CNAME .
 *.csidc.top CNAME .
 dapxtne.top CNAME .
@@ -1504,8 +1446,6 @@ izzicasino-bsm6.top CNAME .
 *.izzicasino-bsm6.top CNAME .
 izzicasino-bsm8.top CNAME .
 *.izzicasino-bsm8.top CNAME .
-lite-1x466166.top CNAME .
-*.lite-1x466166.top CNAME .
 lite-1x747396.top CNAME .
 *.lite-1x747396.top CNAME .
 lite-1x914149.top CNAME .
