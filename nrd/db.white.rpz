@@ -1,9 +1,9 @@
 ; BIND RPZ whitelist
 $TTL 3600
-@ SOA dummy-1722089100-ns hostmaster 1722089100 12h 15m 3w 3h
-@ NS dummy-1722089100-ns
-dummy-1722089100-ns A 0.0.0.0
-dummy-1722089100-ns AAAA ::
+@ SOA dummy-1722103464-ns hostmaster 1722103464 12h 15m 3w 3h
+@ NS dummy-1722103464-ns
+dummy-1722103464-ns A 0.0.0.0
+dummy-1722103464-ns AAAA ::
 ;
 ; --- TLDS ---
 ;
